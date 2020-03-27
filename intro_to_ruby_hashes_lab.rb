@@ -36,7 +36,7 @@ def monopoly_with_third_tier
 
         },
         :shortline => {
-          
+
         }
       },
       :rent_in_dollars =>
@@ -66,7 +66,7 @@ def monopoly_with_fourth_tier
 
         },
         :shortline => {
-          
+
         }
       },
       :rent_in_dollars =>
